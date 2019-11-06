@@ -1,5 +1,5 @@
 # Interaction-biodiversity-stability
-Code used for simulation outcomes in this great paper: dddd
+Code used for simulation outcomes in this great paper: ddd
 
 model.ipynb:
 Ipython file that contains simulations
