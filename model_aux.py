@@ -170,7 +170,7 @@ def diversity(x):
         return 0
     
 def diversity_com(x):
-   
+ 
     # if at least two species are present
     if sum(x!=0)>1:
         ## take care here to not take log of 0 !!
